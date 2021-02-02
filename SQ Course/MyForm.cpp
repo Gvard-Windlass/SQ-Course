@@ -4,6 +4,9 @@
 #include "RndGenerator.h"
 #include "BinarySearch.h"
 
+/// <summary>
+/// comment
+/// </summary>
 void SQCourse::MyForm::DisplayVector()
 {
 	QuickSort qs;
